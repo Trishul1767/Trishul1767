@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am in my 1st year b-tech at Gitam university, Hyderabad.<br>I am learning python and c programming languages,<br>my goal is to become a software developer<br>and I am a car enthusiast.<br>
+I am in my 2nd year at Gitam university, Hyderabad.<br>I am learning python and c programming languages,<br>my goal is to become a software developer<br>and I am a car enthusiast.<br>
 
 
 ## 🌐 Socials:
